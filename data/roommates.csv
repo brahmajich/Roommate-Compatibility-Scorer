@@ -1,0 +1,5 @@
+name,sleep_time,cleanliness,work_schedule,food_habits
+Roommate1,early,very clean,9-5,vegetarian
+Roommate2,late,average,flexible,non-vegetarian
+Roommate3,early,not clean,9-5,vegetarian
+Roommate4,late,very clean,night shift,non-vegetarian
